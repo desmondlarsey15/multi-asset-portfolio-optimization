@@ -1,2 +1,14 @@
-# Portfolio_analysis
-Goal is to create a risk-optimized, diversified multi-asset portfolio.
+# Portfolio Optimization Model
+
+This project implements Modern Portfolio Theory using Python
+to construct an efficient frontier and optimize asset allocation.
+
+Tools:
+Python
+NumPy
+Pandas
+Matplotlib
+
+Output:
+Efficient frontier visualization
+Optimal portfolio weights
